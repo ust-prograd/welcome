@@ -1,10 +1,16 @@
 # Personal Details
 **Full Name:** Khavin Shankar
+
 **Nick Name:** Kavin
+
 **Date of Birth:** 18th January, 1999
+
 **Email:** khavinshankar@gmail.com
+
 **LinkedIn:** https://www.linkedin.com/in/khavinshankar/
+
 **Portfolio:** http://khavinshankar.engineer/
+
 **Hobbies:**
 - Learning new things
 - Watching Anime
@@ -16,6 +22,7 @@
 
 # Technical Details
 **Github:** https://github.com/khavinshankar
+
 **Programming Languages I Know:** 
 - javascript (9/10)
 - python3 (8/10)
@@ -34,8 +41,13 @@
 
 # Training Related Details
 **Do you know any Programming Language? if yes please mention your favorite language:** Yes (javascript)
+
 **Are you familiar with JAVA? if yes rate yourself on a scale of 10:** Yes (8/10)
+
 **Are you familiar with Spring Boot or any Spring framework? if yes mention the framework and rate yourself on a scale of 10:** Yes (Spring Boot, 8/10)
+
 **Are you familiar with GIT? if yes rate yourself on a scale of 10:** Yes (9/10)
+
 **Are you familiar with TDD (Test Driven Development)? if yes rate yourself on a scale of 10:** Yes (9/10)
+
 **Are you familiar with cloud? if yes mention the which cloud (like AWS, Azure, GCP..) and rate yourself on a scale of 10:** Yes (AWS and GCP, 8/10)
