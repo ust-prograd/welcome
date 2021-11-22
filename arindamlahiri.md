@@ -1,5 +1,5 @@
 # Personal Details
-**Full Name:** Khavin Shankar
+**Full Name:** Arindam Lahiri
 
 **Nick Name:** Kavin
 
@@ -23,14 +23,14 @@
 # Technical Details
 **Github:** https://github.com/khavinshankar
 
-**Programming Languages I Know:** 
+**Programming Languages I Know:**
 - javascript (9/10)
 - python3 (8/10)
 - cpp (8/10)
 - java (8/10)
 - ruby (6/10)
 
-**Frameworks that I Know:** 
+**Frameworks that I Know:**
 - Reactjs
 - Nodejs
 - Spring

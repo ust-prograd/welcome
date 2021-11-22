@@ -4,7 +4,3 @@
 Hello from khavinshankar
 
 hello from Neethu Pauly
-
-hello from arindamlahiri
-
-hello from Nithiya paul
