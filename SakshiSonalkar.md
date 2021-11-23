@@ -6,10 +6,6 @@
 
 **Email:** sonalkarsakshi@gmail.com
 
-**LinkedIn:** https://www.linkedin.com/in//
-
-**Portfolio:** http://khavinshankar.engineer/
-
 **Hobbies:**
 - Learning new things
 - reading books
