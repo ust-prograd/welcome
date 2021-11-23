@@ -1,9 +1,9 @@
 # Personal Details
-**Full Name:** Arindam Lahiri
+**Full Name:** Sriee Saai Kowsalya
 
-**Nick Name:** Kavin
+**Nick Name:** Kowshi
 
-**Date of Birth:** 18th January, 1999
+**Date of Birth:** 12th December, 1999
 
 **Email:** khavinshankar@gmail.com
 
